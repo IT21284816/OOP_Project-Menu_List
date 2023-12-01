@@ -1,0 +1,7 @@
+database -hotel
+table - menu_list
+
+id (Ai)
+categoryID  (var)
+menuName   (var)
+price  (var)
