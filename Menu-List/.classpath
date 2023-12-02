@@ -13,9 +13,9 @@
 			<attribute name="owner.project.facets" value="#system#;jst.web"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/ASUS/Documents/GitHub/Menu-List/WebContent/WEB-INF/lib/jsp-api-2.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/ASUS/Documents/GitHub/Menu-List/WebContent/WEB-INF/lib/jstl-1.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/ASUS/Documents/GitHub/Menu-List/WebContent/WEB-INF/lib/mysql-connector-java-8.0.13.jar"/>
-	<classpathentry kind="lib" path="C:/Users/ASUS/Documents/GitHub/Menu-List/WebContent/WEB-INF/lib/servlet-api-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ASUS/Documents/GitHub/OOP_Project-Menu_List/Menu-List/WebContent/WEB-INF/lib/jsp-api-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ASUS/Documents/GitHub/OOP_Project-Menu_List/Menu-List/WebContent/WEB-INF/lib/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ASUS/Documents/GitHub/OOP_Project-Menu_List/Menu-List/WebContent/WEB-INF/lib/mysql-connector-java-8.0.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ASUS/Documents/GitHub/OOP_Project-Menu_List/Menu-List/WebContent/WEB-INF/lib/servlet-api-2.5.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
